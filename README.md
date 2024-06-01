@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <h3 align="center">An AI student from Pakistan</h3>
 
-- 🌱 I’m currently learning **Node.js and React.js**
+- 🌱 I’m currently learning **Node/React.js and python**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-ali-06a110252/](https://www.linkedin.com/in/muhammad-ali-06a110252/)
 
