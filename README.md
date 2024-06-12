@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <h3 align="center">An AI student from Pakistan</h3>
-<div align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=250&color=279FD2&center=true&vCenter=true&random=false&width=435&lines=Future+AI-Expert;Nodejs+and+Python+learner+%3C3;Avid Tecaher" alt="Typing SVG" /></a></div>
+<div align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=250&color=279FD2&center=true&vCenter=true&random=false&width=435&lines=Future+AI-Expert;Nodejs+and+Python+learner+%3C3;Avid+Tecaher" alt="Typing SVG" /></a></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadali0981&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadali0981" /> </p>
 
