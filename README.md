@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadali0981&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadali0981" /> </p>
 
 
-- 🌱 I’m currently learning **React.js and Python**
+- 🌱 I’m currently learning **Python**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-ali-06a110252/](https://www.linkedin.com/in/muhammad-ali-06a110252/)
 
