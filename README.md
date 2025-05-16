@@ -24,7 +24,16 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></p>
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali0981&langs_count=6" alt="muhammadali0981" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadali0981&show_icons=true&rank_icon=github&theme=default" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali0981&langs_count=6" alt="Top Langs" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=muhammadali0981&show_icons=true&rank_icon=github&theme=default" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
