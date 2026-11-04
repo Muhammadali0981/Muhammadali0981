@@ -23,7 +23,7 @@ ali = {
     "studying":  "BS Artificial Intelligence @ FAST-NUCES Karachi (final year)",
     "research":  ["ionospheric modelling", "ionogram autoscaling", "audio deepfakes", "computer vision"],
     "building":  ["RAG pipelines", "multi-agent LLM systems", "full-stack apps"],
-    "roles":     ["AI Fellow @ Crescent Care", "General Secretary @ FAST AI Society"],
+    "role":      "Full Stack & AI Engineer @ Crescent Care",
     "side_quest": "chemistry tutor (Edexcel IAL, Cambridge A Level)",
 }
 ```
@@ -32,7 +32,7 @@ ali = {
 
 - 📡 **Ionogram autoscaling (Final Year Project).** A vision-based system for scaling ionosonde ionograms across instruments, not tied to one vendor's autoscaler. Built on GIRO and NICT WDC data, with scaling rules from URSI UAG-23.
 - 🌍 **Ionospheric modelling.** ANN/LSTM models that predict foF2 and hmF2, benchmarked against IRI-2020, with a case study of the May 2024 geomagnetic superstorm. Manuscript in preparation.
-- 🏥 **AI Fellow at Crescent Care.** Requirements and system design for an AI-assisted ERP rebuild at a health insurance TPA. Stack: Node.js and PostgreSQL.
+- 🏥 **Full Stack & AI Engineer at Crescent Care.** Working on an AI-assisted ERP rebuild for a health insurance TPA. Stack: Node.js and PostgreSQL.
 
 ### 🚀 Selected projects
 
@@ -64,7 +64,6 @@ Other research: door detection and segmentation with BiSeNetV1 on DeepDoors2 (0.
 
 ### 🌱 Outside the code
 
-- 🧑‍💼 General Secretary, FAST AI Society (FAIS)
 - 🏁 Co-head of the VibeCoding competition at Developers' Day 2026 (ACM NUCES)
 - 🧩 Competitive programming
 - ⚗️ Chemistry tutor for Edexcel IAL and Cambridge A Level students
