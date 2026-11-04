@@ -1,34 +1,38 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">An AI student from Pakistan</h3>
-<div align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=250&color=FFFFF2&center=true&vCenter=true&random=false&width=435&lines=Future+AI+Expert;Reactjs+learner+%3C3;Avid+Teacher" alt="Typing SVG" /></a></div>
+# Muhammad Ali
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadali0981&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadali0981" /> </p>
+Final-year BS Artificial Intelligence student at FAST-NUCES Karachi. I do applied ML research, mostly space-weather and ionospheric modelling, and I also build production software.
 
+## Current work
 
-- 🌱 I’m currently learning **Python**
+- **Ionogram autoscaling (Final Year Project).** A vision-based system for scaling ionosonde ionograms across instruments, not tied to one vendor's autoscaler. Built on GIRO and NICT WDC data, with scaling rules from URSI UAG-23.
+- **Ionospheric modelling.** ANN/LSTM models that predict foF2 and hmF2, benchmarked against IRI-2020, with a case study of the May 2024 geomagnetic superstorm. Manuscript in preparation.
+- **AI Fellow at Crescent Care.** Requirements and system design for an AI-assisted ERP rebuild at a health insurance TPA. Stack: Node.js and PostgreSQL.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-ali-06a110252/](https://www.linkedin.com/in/muhammad-ali-06a110252/)
+## Selected projects
 
-- ⚡ Fun fact **I teach O and A level students**
+| Project | What it is | Stack |
+|---|---|---|
+| [UPAR 2027, Track 1](https://github.com/Muhammadali0981/upar27-t1) | Entry to the Pedestrian Attribute Recognition track of the UPAR Challenge (WACV 2027 RWS workshop). A CLIP-based model with domain-balanced training and calibration | PyTorch, CLIP |
+| [Intelligent Customer Support System](https://github.com/Muhammadali0981/IntelligentCustomerSupportSystem) | Classifies and routes support tickets. Known issues get basic RAG, new issues get reasoning RAG, and answers that fail the grounding check are escalated to a human. Runs fully local | Python, Ollama, RAG |
+| [Rubik's Cube Race](https://github.com/Muhammadali0981/AiEngRubiksCube) | Benchmarks AI models solving a real 3x3 cube, with every move validated by a cube engine | Python, FastAPI, pycuber |
+| [AI-generated audio detection](https://github.com/Muhammadali0981/ai_genrated_audio_detection) | Audio deepfake detection with the AASIST architecture on ASVspoof 2019/2021 | PyTorch |
+| [Dots and Boxes in Assembly](https://github.com/Muhammadali0981/dots_and_boxes_asm) | Two-player game written in x86 assembly | MASM, Irvine32 |
+| Khedmat | Voice-powered AI service booking for Pakistan's informal economy, built for the Google Antigravity Hackathon | Flutter, Firestore, multi-agent LLMs |
+| Multi-agent medical triage | Triage, specialist, safety and summary agents grounded in SNOMED CT, ICD-11 and OpenFDA. By design, it never makes a diagnosis on its own | Python, LLM agents |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ali-06a110252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-ali-06a110252/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100062680716614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100062680716614" height="30" width="40" /></a>
-<a href="https://instagram.com/__.muhammad.__.ali.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.muhammad.__.ali.__" height="30" width="40" /></a>
-</p>
+Other research: door detection and segmentation with BiSeNetV1 on DeepDoors2 (0.925 mIoU).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></p>
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali0981&langs_count=8" alt="Top Langs" />
-</p>
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadali0981&show_icons=true&rank_icon=github&theme=default" alt="GitHub Stats" />
-</p>
+## Tools
 
+Python · PyTorch · CUDA · scikit-learn · pandas · PostgreSQL · MongoDB · Node.js · Express · Next.js · Flutter · C/C++ · x86 Assembly · LaTeX
 
+## Outside the code
 
+- General Secretary, FAST AI Society (FAIS)
+- Co-head of the VibeCoding competition at Developers' Day 2026 (ACM NUCES)
+- Competitive programming
+- Chemistry tutor for Edexcel IAL and Cambridge A Level students
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-ali-06a110252/)
