@@ -65,7 +65,6 @@ Other research: door detection and segmentation with BiSeNetV1 on DeepDoors2 (0.
 ### 🌱 Outside the code
 
 - 🏁 Co-head of the VibeCoding competition at Developers' Day 2026 (ACM NUCES)
-- 🧩 Competitive programming
 - ⚗️ Chemistry tutor for Edexcel IAL and Cambridge A Level students
 
 ### 📈 GitHub streak
