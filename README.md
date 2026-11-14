@@ -28,6 +28,6 @@ This semester I'm a teaching assistant for AI2002 (Artificial Intelligence) at F
 - Intern at the National Center of GIS and Space Applications, Islamabad, Jul-Aug 2024, working in Python and Arduino.
 - O and A Level tutor and teaching assistant at Hexagon Academy.
 
-I co-headed the VibeCoding competition at ACM's Developers' Day 2026, and won Best Delegate at TGD in November 2023. Away from a screen I read a lot of history, mostly WWII and grand strategy, write the occasional poem, and drink a lot of tea.
+I co-headed the VibeCoding competition at ACM's Developers' Day 2026, and won Best Delegate at TGD in November 2023. Away from a screen I read a lot of history, mostly WWII and grand strategy, write the occasional poem, and drink tea.
 
 [LinkedIn](https://www.linkedin.com/in/muhammad-ali-06a110252) · muhammadali030605@gmail.com
